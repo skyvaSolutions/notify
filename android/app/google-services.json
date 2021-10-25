@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956284424858",
+    "project_id": "notify-70154",
+    "storage_bucket": "notify-70154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956284424858:android:f85ec6ac8db8fd38308523",
+        "android_client_info": {
+          "package_name": "com.skywasolutions.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956284424858-32d235a6dtkh12dtdpoh8v21q16gahjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKT0z0GAAt3d94wmqDZsVAXKQCN0GFeaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956284424858-32d235a6dtkh12dtdpoh8v21q16gahjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
